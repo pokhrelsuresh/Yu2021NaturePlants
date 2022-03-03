@@ -5,3 +5,4 @@ Scripts for WGCNA network analysis and correlation with microbial taxonomy trait
 - WGCNA_trait.R # Scripts for WGCNA gene modules detection and correlation with microbial traits
 - sample_info.csv # Detailed information of sample metadata
 - /traits_file # File for depositing bacterial and fungal taxa data
+Publication: https://www.nature.com/articles/s41477-021-00897-y?proof=t
